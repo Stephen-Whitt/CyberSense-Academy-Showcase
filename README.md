@@ -56,7 +56,7 @@ AI tools were used for support during the development of this project.
 
 - ChatGPT (generating the initial Base44 prompt based on my concept and requirements; graphic design/image generation)
 - Base44 (generating the core codebase and initial modifications)
-- Perplexity AI (brainstorming leaning content; assisting with deployment troubleshooting; drafting documentation)
+- Perplexity AI (brainstorming learning content and documentation; assisting with deployment troubleshooting)
 - GitHub Copilot (general software engineering assistance; code security scans)
 
 ### Author's contributions and human oversight:
@@ -64,6 +64,7 @@ AI tools were used for support during the development of this project.
 - Reviewed, revised, and made final decisions on all AI-generated suggestions and modifications
 - Wrote and curated site content
 - Edited and organized the Base44-generated core codebase into the finalized production codebase
+- Wrote documentation
 - Managed deployment and publication
 - All other tasks not otherwise specified
 
