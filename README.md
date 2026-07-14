@@ -60,7 +60,7 @@ AI tools were used for support during the development of this project.
 - GitHub Copilot (general software engineering assistance; code security scans)
 
 ### Author's contributions and human oversight:
-- Defined the project concept and mission
+- Defined the project concept, mission, features, and design
 - Reviewed, revised, and made final decisions on all AI-generated suggestions and modifications
 - Wrote and curated site content
 - Edited and organized the Base44-generated core codebase into the finalized production codebase
