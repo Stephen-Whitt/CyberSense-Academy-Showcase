@@ -12,7 +12,7 @@ The CyberSense Academy platform is intended to be a trusted source of accurate i
 
 Cybersecurity incidents consistently show that humans are the most exploited vulnerability in digital security, especially those ignorant of essential cyber hygiene practices and the digital threat landscape. CyberSense Academy was created to make foundational cybersecurity knowledge more understandable, practical, and widely accessible for everyday people across the age spectrum.
 
-The project focuses on helping people build habits they can apply immediately, such as recognizing scams, understanding the basics of social engineering, using a password manager to create and store unique, complex passwords, understanding the importance of using Multi-Factor Authentication (MFA) and passkeys wherever possible, recognizing the malicious uses of emerging technologies, and more. It is not intended as a comprehensive cybersecurity course, but rather as a crash course on the fundamental elements of cyber hygiene that all internet users should be well-versed in and a platform to pique curiosity and foster further learning.
+The project focuses on helping people build habits they can apply immediately, such as recognizing scams, understanding the basics of social engineering, using a password manager to create and store unique, complex passwords, understanding the importance of using Multi-Factor Authentication (MFA) and passkeys wherever possible, recognizing the malicious uses of emerging technologies, and more. It is not intended as a comprehensive cybersecurity course, but rather as a crash course on the fundamental elements of cyber hygiene that all internet users should be well-versed in and an opportunity to pique curiosity and foster further learning.
 
 ## Live project
 
@@ -59,12 +59,13 @@ AI tools were used for support during the development of this project.
 - Perplexity AI (brainstorming leaning content; assisting with deployment troubleshooting; drafting documentation)
 - GitHub Copilot (general software engineering assistance; code security scans)
 
-### My contributions:
+### Author's contributions and human oversight:
 - Defined the project concept and mission
 - Reviewed, revised, and made final decisions on all AI-generated suggestions and modifications
 - Wrote and curated site content
 - Edited and organized the Base44-generated core codebase into the finalized production codebase
 - Managed deployment and publication
+- All other tasks not otherwise specified
 
 ## License
 
